@@ -122,6 +122,7 @@ html_theme_options = {
     'show_sidebar_index': True,
 }
 
+
 extlinks = {
     'manager': ('/operating-scylla/manager/%s/',''),
     'manager_lst': ('/operating-scylla/manager/2.0/%s/',''),
